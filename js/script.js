@@ -29,7 +29,7 @@ contactForm.addEventListener('submit', function(event) {
     const phone = document.getElementById('phoneInput').value;
 
     // Definisikan nomor WhatsApp 
-    const whatsappNumber = '6285813136729'; //  nomor WhatsApp 
+    const whatsappNumber = '6281513345973'; //  nomor WhatsApp 
 
     // Buat pesan 
     const message = `Halo Assalamu’alaikum, selamat pagi/siang. Saya ingin memesan batu nisan untuk almarhum/almarhumah. ${name}. Email: ${email}. No. HP: ${phone}. Terima kasih!`;
